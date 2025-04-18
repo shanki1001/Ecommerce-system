@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1744967864 source:d:\c++\mini e-commerce system\main.cpp
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"Product.h"
+	<iostream>
+	"Customer.h"
+	"Admin.h"
+	"InventoryManager.h"
+
+1744519804 d:\c++\mini e-commerce system\include\product.h
+	<string>
+
+1744521823 source:d:\c++\mini e-commerce system\src\product.cpp
+	"Product.h"
+	<iostream>
+
+1744973822 d:\c++\mini e-commerce system\include\customer.h
+	"User.h"
+	"Cart.h"
+	"InventoryManager.h"
+	<string>
+
+1744523499 d:\c++\mini e-commerce system\include\user.h
+	<string>
+
+1744973930 source:d:\c++\mini e-commerce system\src\customer.cpp
+	"Customer.h"
+	<iostream>
+
+1744744826 source:d:\c++\mini e-commerce system\src\user.cpp
+	"User.h"
+	<iostream>
+
+1744909515 d:\c++\mini e-commerce system\include\admin.h
+	"User.h"
+	"InventoryManager.h"
+
+1744962431 d:\c++\mini e-commerce system\include\inventorymanager.h
+	<vector>
+	"Product.h"
+	<string>
+
+1744968492 source:d:\c++\mini e-commerce system\src\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1744962457 source:d:\c++\mini e-commerce system\src\inventorymanager.cpp
+	"InventoryManager.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1744897253 source:d:\c++\mini e-commerce system\src\cart.cpp
+	"Cart.h"
+	<iostream>
+
+1744896551 d:\c++\mini e-commerce system\include\cart.h
+	"Product.h"
+	<vector>
+
